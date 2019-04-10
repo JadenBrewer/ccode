@@ -1,0 +1,7 @@
+#gitignore file for code repository 
+#ignore
+*.o
+*.out
+*.exe
+*.dll
+db.php
